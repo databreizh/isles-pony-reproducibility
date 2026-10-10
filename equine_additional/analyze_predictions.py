@@ -86,14 +86,19 @@ def curves(rows,k,out):
     import matplotlib
     matplotlib.use('Agg')
     import matplotlib.pyplot as plt
-    fig,ax=plt.subplots(figsize=(6,4))
+    fig, ax = plt.subplots(figsize=(3.4, 2.4))
     for method,v in sorted(interpolated.items()):
         v=np.asarray(v);mean=v.mean(axis=0);sd=v.std(axis=0,ddof=1) if len(v)>1 else np.zeros(len(grid))
         average.extend({'method':method,'ufa_budget':u,'mean_cia':c,'partition_sd':s} for u,c,s in zip(grid,mean,sd))
-        ax.step(grid*100,mean*100,where='post',label={'dinov2': 'Frozen', 'dinov2_last_block': 'Last block + norm', 'projection_triplet': 'Linear projection'}.get(method, method))
+        ax.step(grid*100,mean*100,where='post',label=method)
         ops=[r for r in operating if r['method']==method]
         if ops:ax.scatter(np.mean([r['ufa'] for r in ops])*100,np.mean([r['cia'] for r in ops])*100,s=25)
-    ax.set(xlabel='Unknown false acceptance budget (%)',ylabel='Correct identification and acceptance (%)',xlim=(0,20),ylim=(0,100))
+    ax.set(
+    xlabel="UFA budget (%)",
+    ylabel="CIA (%)",
+    xlim=(0, 20),
+    ylim=(0, 100),
+    )
     ax.grid(alpha=.25);ax.legend(fontsize=8);fig.tight_layout();fig.savefig(out/'cia_ufa.pdf');fig.savefig(out/'cia_ufa.png',dpi=180);plt.close(fig)
     write_csv(out/'open_set_mean_envelope.csv',average)
 
