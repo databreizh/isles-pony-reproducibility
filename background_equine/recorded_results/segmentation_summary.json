@@ -1,0 +1,496 @@
+{
+  "images": 1546,
+  "segmented": 1111,
+  "fallback": 435,
+  "multiple_horses": 166,
+  "per_identity": {
+    "au_moins_10_photos/Herestoyou": {
+      "images": 10,
+      "segmented": 9
+    },
+    "au_moins_10_photos/Hiphiphip": {
+      "images": 19,
+      "segmented": 19
+    },
+    "au_moins_10_photos/Iakary": {
+      "images": 10,
+      "segmented": 10
+    },
+    "au_moins_10_photos/IceTea": {
+      "images": 14,
+      "segmented": 14
+    },
+    "au_moins_10_photos/Incognito": {
+      "images": 10,
+      "segmented": 9
+    },
+    "au_moins_10_photos/JadedOr": {
+      "images": 10,
+      "segmented": 10
+    },
+    "au_moins_10_photos/JolieGrey": {
+      "images": 14,
+      "segmented": 5
+    },
+    "au_moins_10_photos/Jump": {
+      "images": 14,
+      "segmented": 14
+    },
+    "au_moins_10_photos/Jupiter": {
+      "images": 13,
+      "segmented": 12
+    },
+    "au_moins_10_photos/Karma": {
+      "images": 10,
+      "segmented": 9
+    },
+    "au_moins_10_photos/Katimini": {
+      "images": 11,
+      "segmented": 3
+    },
+    "au_moins_10_photos/KeepMagic": {
+      "images": 10,
+      "segmented": 10
+    },
+    "au_moins_10_photos/Klairdelune": {
+      "images": 11,
+      "segmented": 10
+    },
+    "au_moins_10_photos/LacyLady": {
+      "images": 13,
+      "segmented": 5
+    },
+    "au_moins_10_photos/Ladygaga": {
+      "images": 9,
+      "segmented": 8
+    },
+    "au_moins_10_photos/Lambada": {
+      "images": 13,
+      "segmented": 7
+    },
+    "au_moins_10_photos/Lamiya": {
+      "images": 14,
+      "segmented": 10
+    },
+    "au_moins_10_photos/Lancelot": {
+      "images": 11,
+      "segmented": 10
+    },
+    "au_moins_10_photos/LapisLazuli": {
+      "images": 11,
+      "segmented": 4
+    },
+    "au_moins_10_photos/Lavieenrose": {
+      "images": 10,
+      "segmented": 9
+    },
+    "au_moins_10_photos/Laziza": {
+      "images": 14,
+      "segmented": 7
+    },
+    "au_moins_10_photos/Leader": {
+      "images": 12,
+      "segmented": 5
+    },
+    "au_moins_10_photos/Leeward": {
+      "images": 13,
+      "segmented": 10
+    },
+    "au_moins_10_photos/Lolita": {
+      "images": 13,
+      "segmented": 10
+    },
+    "au_moins_10_photos/Loopingmagic": {
+      "images": 13,
+      "segmented": 12
+    },
+    "au_moins_10_photos/LoreleiGrey": {
+      "images": 11,
+      "segmented": 4
+    },
+    "au_moins_10_photos/Lovelygrey": {
+      "images": 13,
+      "segmented": 7
+    },
+    "au_moins_10_photos/Lucky": {
+      "images": 13,
+      "segmented": 12
+    },
+    "au_moins_10_photos/Madonna": {
+      "images": 12,
+      "segmented": 7
+    },
+    "au_moins_10_photos/MagicFairy": {
+      "images": 21,
+      "segmented": 16
+    },
+    "au_moins_10_photos/MammaMia": {
+      "images": 12,
+      "segmented": 7
+    },
+    "au_moins_10_photos/Manzanita": {
+      "images": 22,
+      "segmented": 16
+    },
+    "au_moins_10_photos/Maïka": {
+      "images": 11,
+      "segmented": 5
+    },
+    "au_moins_10_photos/Mercure": {
+      "images": 13,
+      "segmented": 12
+    },
+    "au_moins_10_photos/Merlin": {
+      "images": 11,
+      "segmented": 5
+    },
+    "au_moins_10_photos/Miamor": {
+      "images": 13,
+      "segmented": 8
+    },
+    "au_moins_10_photos/MielPops": {
+      "images": 19,
+      "segmented": 9
+    },
+    "au_moins_10_photos/Milka": {
+      "images": 14,
+      "segmented": 12
+    },
+    "au_moins_10_photos/Milleflammes": {
+      "images": 15,
+      "segmented": 6
+    },
+    "au_moins_10_photos/Millesime": {
+      "images": 11,
+      "segmented": 11
+    },
+    "au_moins_10_photos/MissGold": {
+      "images": 10,
+      "segmented": 4
+    },
+    "au_moins_10_photos/Mms": {
+      "images": 10,
+      "segmented": 10
+    },
+    "au_moins_10_photos/Mojito": {
+      "images": 11,
+      "segmented": 9
+    },
+    "au_moins_10_photos/Mufassa": {
+      "images": 11,
+      "segmented": 9
+    },
+    "au_moins_10_photos/Météore": {
+      "images": 13,
+      "segmented": 13
+    },
+    "au_moins_10_photos/N5": {
+      "images": 15,
+      "segmented": 8
+    },
+    "au_moins_10_photos/Nagawika": {
+      "images": 12,
+      "segmented": 11
+    },
+    "au_moins_10_photos/Namour": {
+      "images": 13,
+      "segmented": 8
+    },
+    "au_moins_10_photos/Narcotique": {
+      "images": 11,
+      "segmented": 10
+    },
+    "au_moins_10_photos/Narnia": {
+      "images": 10,
+      "segmented": 9
+    },
+    "au_moins_10_photos/Naruto": {
+      "images": 10,
+      "segmented": 2
+    },
+    "au_moins_10_photos/Neptune": {
+      "images": 12,
+      "segmented": 10
+    },
+    "au_moins_10_photos/Nesquik": {
+      "images": 10,
+      "segmented": 5
+    },
+    "au_moins_10_photos/Newlook": {
+      "images": 10,
+      "segmented": 10
+    },
+    "au_moins_10_photos/Nicegrey": {
+      "images": 12,
+      "segmented": 7
+    },
+    "au_moins_10_photos/NightMagic": {
+      "images": 10,
+      "segmented": 9
+    },
+    "au_moins_10_photos/Ninja": {
+      "images": 11,
+      "segmented": 9
+    },
+    "au_moins_10_photos/Nirvana": {
+      "images": 11,
+      "segmented": 8
+    },
+    "au_moins_10_photos/Noixdecoco": {
+      "images": 11,
+      "segmented": 6
+    },
+    "au_moins_10_photos/Nounours": {
+      "images": 13,
+      "segmented": 13
+    },
+    "au_moins_10_photos/NumberOne": {
+      "images": 10,
+      "segmented": 3
+    },
+    "au_moins_10_photos/Odyssée": {
+      "images": 13,
+      "segmented": 11
+    },
+    "au_moins_10_photos/Ohlastar": {
+      "images": 18,
+      "segmented": 17
+    },
+    "au_moins_10_photos/Ohmylady": {
+      "images": 13,
+      "segmented": 10
+    },
+    "au_moins_10_photos/Oklahoma": {
+      "images": 12,
+      "segmented": 7
+    },
+    "au_moins_10_photos/Ollywood": {
+      "images": 19,
+      "segmented": 18
+    },
+    "au_moins_10_photos/Olympique": {
+      "images": 11,
+      "segmented": 6
+    },
+    "au_moins_10_photos/OmarSy": {
+      "images": 13,
+      "segmented": 4
+    },
+    "au_moins_10_photos/Onekiss": {
+      "images": 14,
+      "segmented": 5
+    },
+    "au_moins_10_photos/Onthetop": {
+      "images": 10,
+      "segmented": 5
+    },
+    "au_moins_10_photos/Opaline": {
+      "images": 12,
+      "segmented": 9
+    },
+    "au_moins_10_photos/Orangina": {
+      "images": 14,
+      "segmented": 9
+    },
+    "au_moins_10_photos/Orlando": {
+      "images": 15,
+      "segmented": 12
+    },
+    "au_moins_10_photos/Oshi": {
+      "images": 10,
+      "segmented": 9
+    },
+    "au_moins_10_photos/Osmose": {
+      "images": 12,
+      "segmented": 12
+    },
+    "au_moins_10_photos/Ottawa": {
+      "images": 11,
+      "segmented": 10
+    },
+    "au_moins_10_photos/Ouahouuu": {
+      "images": 10,
+      "segmented": 8
+    },
+    "au_moins_10_photos/Oumri": {
+      "images": 18,
+      "segmented": 10
+    },
+    "au_moins_10_photos/Overland": {
+      "images": 20,
+      "segmented": 16
+    },
+    "au_moins_10_photos/Ozanges": {
+      "images": 12,
+      "segmented": 10
+    },
+    "au_moins_10_photos/Pacman": {
+      "images": 17,
+      "segmented": 17
+    },
+    "au_moins_10_photos/Pangloss": {
+      "images": 20,
+      "segmented": 15
+    },
+    "au_moins_10_photos/Peacenlove": {
+      "images": 10,
+      "segmented": 3
+    },
+    "au_moins_10_photos/Pepsmagic": {
+      "images": 11,
+      "segmented": 7
+    },
+    "au_moins_10_photos/Poldark": {
+      "images": 20,
+      "segmented": 15
+    },
+    "au_moins_10_photos/Polygrey": {
+      "images": 19,
+      "segmented": 13
+    },
+    "au_moins_10_photos/Prophétie": {
+      "images": 20,
+      "segmented": 6
+    },
+    "au_moins_10_photos/Qaracole": {
+      "images": 14,
+      "segmented": 2
+    },
+    "au_moins_10_photos/Qarinia": {
+      "images": 14,
+      "segmented": 10
+    },
+    "au_moins_10_photos/Qlarabelle": {
+      "images": 10,
+      "segmented": 7
+    },
+    "au_moins_10_photos/dorure": {
+      "images": 11,
+      "segmented": 11
+    },
+    "au_moins_10_photos/immagic": {
+      "images": 19,
+      "segmented": 15
+    },
+    "au_moins_10_photos/lol": {
+      "images": 15,
+      "segmented": 9
+    },
+    "au_moins_10_photos/lorblanc": {
+      "images": 16,
+      "segmented": 13
+    },
+    "au_moins_10_photos/luna": {
+      "images": 11,
+      "segmented": 4
+    },
+    "au_moins_10_photos/madein": {
+      "images": 13,
+      "segmented": 13
+    },
+    "au_moins_10_photos/madison": {
+      "images": 14,
+      "segmented": 9
+    },
+    "au_moins_10_photos/mulan": {
+      "images": 15,
+      "segmented": 15
+    },
+    "au_moins_10_photos/napoléon": {
+      "images": 15,
+      "segmented": 11
+    },
+    "au_moins_10_photos/nikita": {
+      "images": 18,
+      "segmented": 10
+    },
+    "au_moins_10_photos/opium": {
+      "images": 10,
+      "segmented": 10
+    },
+    "au_moins_10_photos/osiris": {
+      "images": 17,
+      "segmented": 5
+    },
+    "au_moins_10_photos/osoleil": {
+      "images": 10,
+      "segmented": 6
+    },
+    "au_moins_10_photos/padawan": {
+      "images": 14,
+      "segmented": 13
+    },
+    "au_moins_10_photos/paradis": {
+      "images": 13,
+      "segmented": 9
+    },
+    "au_moins_10_photos/pepito": {
+      "images": 11,
+      "segmented": 10
+    },
+    "au_moins_10_photos/perceneige": {
+      "images": 16,
+      "segmented": 13
+    },
+    "au_moins_10_photos/pinkfloyd": {
+      "images": 10,
+      "segmented": 8
+    },
+    "au_moins_10_photos/pinup": {
+      "images": 20,
+      "segmented": 18
+    },
+    "au_moins_10_photos/polaris": {
+      "images": 12,
+      "segmented": 11
+    },
+    "au_moins_10_photos/primadonna": {
+      "images": 12,
+      "segmented": 7
+    },
+    "au_moins_10_photos/primerose": {
+      "images": 12,
+      "segmented": 8
+    },
+    "au_moins_10_photos/prodige": {
+      "images": 10,
+      "segmented": 10
+    },
+    "au_moins_10_photos/purpledream": {
+      "images": 17,
+      "segmented": 6
+    },
+    "au_moins_10_photos/qochise": {
+      "images": 10,
+      "segmented": 9
+    },
+    "moins_de_10_photos/Kalgary": {
+      "images": 6,
+      "segmented": 6
+    },
+    "moins_de_10_photos/LaStar": {
+      "images": 6,
+      "segmented": 2
+    },
+    "moins_de_10_photos/Nolimit": {
+      "images": 5,
+      "segmented": 5
+    },
+    "moins_de_10_photos/Othentique": {
+      "images": 7,
+      "segmented": 4
+    },
+    "moins_de_10_photos/Ourson": {
+      "images": 6,
+      "segmented": 6
+    },
+    "moins_de_10_photos/Patchwork": {
+      "images": 7,
+      "segmented": 6
+    },
+    "moins_de_10_photos/qomete": {
+      "images": 7,
+      "segmented": 5
+    }
+  }
+}

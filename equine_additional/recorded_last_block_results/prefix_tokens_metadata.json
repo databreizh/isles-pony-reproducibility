@@ -1,0 +1,5 @@
+{
+  "catalog_fingerprint": "d695e7d6a265df5a3cde4ae31a75d32ba436c8afad9c4603be2451606ddc32d8",
+  "weights_sha256": "190859844203f530e178165b42ed96c811144b0c1945d8b8e8306e68e468ab48",
+  "preprocess": "exif_rgb_square_gray127_resize224_bicubic_v1"
+}

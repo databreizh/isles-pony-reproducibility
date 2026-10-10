@@ -1,0 +1,11 @@
+Vérifications réalisées le 5 octobre 2026 :
+- Gradient analytique vérifié par différences finies.
+- Masques foreground/background complémentaires.
+- Galeries emboîtées et requêtes disjointes après exclusion des masques manquants.
+- Contrôle des identités entraînement/validation/test.
+- Exécution CLI complète sur 4 descripteurs synthétiques et 5 partitions.
+- Contrôle du seuil de rejet avec ex aequo.
+- Réutilisation des checkpoints compatibles et rejet d’un budget différent.
+- Génération des courbes de validation et des points de fonctionnement.
+
+Les modèles préentraînés et les 1 546 photos n’ont pas été exécutés dans ce test : les expériences réelles doivent être lancées sur la machine contenant le corpus et les caches.

@@ -1,0 +1,47 @@
+{
+  "signature": "4c78ba797b20a828244da4dfc67ac76b10c11effb495f5f48893a3d3872b0820",
+  "settings": {
+    "variant": "MegaDescriptor-S-224 + SuperPoint/LightGlue, two streams, exhaustive galleries",
+    "local_resize": [
+      512,
+      512
+    ],
+    "max_keypoints": 1024,
+    "match_filter_threshold": 0.1,
+    "depth_confidence": 0.95,
+    "width_confidence": 0.99,
+    "local_score": "number of accepted LightGlue matches; canonical lower-ID-first direction",
+    "positive_calibration_pairs": 1000,
+    "negative_calibration_pairs": 1000,
+    "calibration": "sklearn isotonic regression, out_of_bounds=clip; balanced training pairs",
+    "fusion": "mean of calibrated image-pair scores, then max over identity references",
+    "validation_photo_false_acceptance": 0.05
+  },
+  "source_catalog_sha256": "d695e7d6a265df5a3cde4ae31a75d32ba436c8afad9c4603be2451606ddc32d8",
+  "weights_sha256": {
+    "superpoint": "492434331861ab5f44fcff49223910e0c48087eab7c5994156f854749538ea14",
+    "lightglue": "01189dc6db2242550fbbbbb4e6af6e6ce2deca6448844df55c994ce256986257"
+  },
+  "packages": {
+    "torch": "2.14.1",
+    "torchvision": "0.29.1",
+    "lightglue": "0.0",
+    "numpy": "2.3.3",
+    "Pillow": "12.3.0",
+    "scikit-learn": "1.9.1",
+    "timm": "1.0.30"
+  },
+  "python": "3.14.0",
+  "device": "cpu",
+  "lightglue_source_sha256": {
+    "__init__.py": "cf4322abb908f69282198931fb23c09a1ef1101b066d57842402e6436a92eaa3",
+    "aliked.py": "60b24397c52e8a08d838828967cd03f5d6066c1f7c3c433805bf11dcb0d5228e",
+    "disk.py": "386583f7ad0011d0574bd1039b18d9b7fdc94b9221279b79adaa6179240bdfa4",
+    "dog_hardnet.py": "54525b5b0bc347c53f5d363892f085347069c6ede68d260d234824cb426b0b2d",
+    "lightglue.py": "dcb75b9cad1985c5e7a537c512d4318d47fbcc99df75b39a513de60e027c039f",
+    "sift.py": "9fa24851ff25b6f09cb06fa62aed1d07fa9cb6aa340c79d6467b3bdfdd4508cd",
+    "superpoint.py": "23e8a26137b44f37e9a319313822c5b38d9c55796e756202eb46d64f1979d2b0",
+    "utils.py": "c6d9260656a24d826128b68c95d0b7798106d04f4244a77f3b1856573f58e690",
+    "viz2d.py": "142195bd74971bbfb8de871e731d412b7a505c2a7389ca8f5d0f29af2a3701e7"
+  }
+}

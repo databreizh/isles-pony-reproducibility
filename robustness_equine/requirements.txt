@@ -1,0 +1,7 @@
+numpy
+Pillow
+threadpoolctl
+matplotlib
+torch
+torchvision
+ultralytics

@@ -1,0 +1,52 @@
+[
+  {
+    "seed": 42,
+    "images_conservees": 1546,
+    "images_ecartees_candidates": 3,
+    "closed_queries": 927,
+    "reid_queries": 221,
+    "open_test_known_queries": 92,
+    "open_test_unknown_queries": 204,
+    "external_unknown_queries": 44
+  },
+  {
+    "seed": 43,
+    "images_conservees": 1546,
+    "images_ecartees_candidates": 3,
+    "closed_queries": 927,
+    "reid_queries": 203,
+    "open_test_known_queries": 78,
+    "open_test_unknown_queries": 200,
+    "external_unknown_queries": 44
+  },
+  {
+    "seed": 44,
+    "images_conservees": 1546,
+    "images_ecartees_candidates": 3,
+    "closed_queries": 927,
+    "reid_queries": 203,
+    "open_test_known_queries": 90,
+    "open_test_unknown_queries": 188,
+    "external_unknown_queries": 44
+  },
+  {
+    "seed": 45,
+    "images_conservees": 1546,
+    "images_ecartees_candidates": 3,
+    "closed_queries": 927,
+    "reid_queries": 181,
+    "open_test_known_queries": 65,
+    "open_test_unknown_queries": 191,
+    "external_unknown_queries": 44
+  },
+  {
+    "seed": 46,
+    "images_conservees": 1546,
+    "images_ecartees_candidates": 3,
+    "closed_queries": 927,
+    "reid_queries": 194,
+    "open_test_known_queries": 75,
+    "open_test_unknown_queries": 194,
+    "external_unknown_queries": 44
+  }
+]

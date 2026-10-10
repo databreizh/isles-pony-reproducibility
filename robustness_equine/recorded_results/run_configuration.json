@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "epochs": 200,
+    "steps_per_epoch": 10,
+    "output_dim": 128
+  },
+  "stage": "all",
+  "paths": {
+    "dinov2": "${EQUINE_PROJECT_ROOT}\\background_equine\\results\\embeddings_dinov2.npz",
+    "resnet50": "${EQUINE_PROJECT_ROOT}\\equine_experiments_v1\\results\\embeddings_resnet50.npz",
+    "megadescriptor": "${EQUINE_PROJECT_ROOT}\\megadescriptor_equine\\results\\embeddings_megadescriptor.npz",
+    "miewid": "${EQUINE_PROJECT_ROOT}\\miewid_equine\\results\\embeddings_miewid.npz",
+    "foreground": "${EQUINE_PROJECT_ROOT}\\background_equine\\results\\embeddings_dinov2_foreground.npz"
+  },
+  "catalog_fingerprint": "d695e7d6a265df5a3cde4ae31a75d32ba436c8afad9c4603be2451606ddc32d8",
+  "note": "No test-based selection; exploratory extension of previously inspected data."
+}

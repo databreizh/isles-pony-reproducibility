@@ -1,0 +1,2 @@
+Bootstrap: conditional identity-cluster uncertainty; not training uncertainty and not a correction for intra-session dependence.
+Curves: retrospective test-score envelopes, not validation-calibrated deployment thresholds. Dots are the existing validation-calibrated operating points. Do not select an operational threshold from these curves. Partition SD is descriptive.

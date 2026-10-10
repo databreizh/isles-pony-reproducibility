@@ -1,0 +1,13 @@
+{
+  "method_a": "dinov2",
+  "method_b": "projection_triplet",
+  "difference_b_minus_a_pp": 16.345340215340215,
+  "ci95_low_pp": 12.804218586935514,
+  "ci95_high_pp": 19.942812885010085,
+  "unique_test_identities": 84,
+  "partitions": 5,
+  "paired_query_occurrences": 1002,
+  "replicates": 10000,
+  "estimand": "mean of partition macro Top-1 differences",
+  "scope": "Identity-cluster percentile interval conditional on recorded fitted models and episodes; repeated identity occurrences receive the same bootstrap multiplicity across all partitions. No retraining, session correction, or confirmatory p-value."
+}

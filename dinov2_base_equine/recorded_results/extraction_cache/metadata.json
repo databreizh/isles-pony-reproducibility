@@ -1,0 +1,23 @@
+{
+  "signature": "ea03fb9db1f4cb82ac1d320e102ef5c94b88e89303d2664282b47a2f701be71f",
+  "metadata": {
+    "model": "dinov2_vitb14",
+    "weights": "official dinov2_vitb14 pretrained, without registers",
+    "model_state_sha256": "6ba9dd85ee9ac3caec717ec270ee86bb44f57b3b4787679b64e5e1c549af0906",
+    "preprocess": "exif_rgb_square_gray127_resize224_bicubic_v1",
+    "source_catalog_sha256": "d695e7d6a265df5a3cde4ae31a75d32ba436c8afad9c4603be2451606ddc32d8",
+    "number_images": 1546,
+    "dimension": 768,
+    "device": "cpu",
+    "model_training_on_corpus": false,
+    "python": "3.14.0",
+    "packages": {
+      "numpy": "2.3.3",
+      "Pillow": "12.3.0",
+      "torch": "2.14.1",
+      "torchvision": "0.29.1",
+      "threadpoolctl": "3.7.0"
+    },
+    "load_seconds_this_run": 64.80395630002022
+  }
+}
